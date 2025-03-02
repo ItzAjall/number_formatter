@@ -7,6 +7,7 @@ Run the script and enter a number when prompted. The output will be displayed wi
 
 ### Example:
 Enter a Number: 123456789
+
 123,456,789
 
 ## Features:
